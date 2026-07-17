@@ -1,6 +1,7 @@
 # 规则就是用来打破的。我们不遵守规则，我们重新定义规则。
 ---
 > **"[CloakBrowser浏览器技术支持](https://github.com/CloakHQ/CloakBrowser)"**
+> **"yt-dlp技术支持"**
 <img src="https://i.imgur.com/cqkp6fG.png" width="500" alt="CloakBrowser">
 ## 功能
 
